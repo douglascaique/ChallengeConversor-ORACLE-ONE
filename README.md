@@ -43,7 +43,7 @@ Durante o desenvolvimento deste desafio, pude consolidar e mobilizar os seguinte
 * **Tratamento de Exceções:** Implementação robusta de `try-catch` para garantir a resiliência do programa frente a erros de rede, API ou entrada do usuário.
 * **Modularização de Código:** A importância de dividir o projeto em módulos lógicos, cada um com sua responsabilidade, para facilitar a manutenção e escalabilidade.
 
-Este projeto foi um passo significativo na minha jornada de aprendizado em Back-end com Java, consolidando conhecimentos essenciais para futuros desafios no desenvolvimento de software.
+Este projeto foi significativo na minha jornada de aprendizado em Back-end com Java, consolidando conhecimentos essenciais para futuros desafios no desenvolvimento de software.
 
 ---
 
